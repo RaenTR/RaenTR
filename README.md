@@ -9,7 +9,7 @@
 
 - 👯 Discord Botum (Geliştirme Aşaması) [AYCodePublic](https://discord.com/api/oauth2/authorize?client_id=1118588249762435072&permissions=8&scope=bot) 
 
-- 🤝 Partnerlik İçin Discord DM [Discord Profil](AlfUrtX#6351) 
+- 🤝 Partnerlik İçin Discord DM (AlfUrtX#6351) 
 
 - 📝 Blog [AYCode.aligony.repl.co](AYCode.aligony.repl.co) 
 
