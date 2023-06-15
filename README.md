@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raentr" alt="raentr" /></a> </p> 
 
-- 🔭 Hali Hazırdaki Websitem [AYCode Website](aycode.aligony.repl.co) 
+- 🔭 Hali Hazırdaki Resmi Olmayan Websitem [AYCode Website](aycodeyedek.aligony.repl.co) 
 
 - 👯 Discord Botum (Geliştirme Aşaması) [AYCodePublic](https://discord.com/api/oauth2/authorize?client_id=1118588249762435072&permissions=8&scope=bot) 
 
 - 🤝 Partnerlik İçin Discord DM (AlfUrtX#6351) 
 
-- 📝 Blog [AYCode.aligony.repl.co](AYCode.aligony.repl.co) 
+- 📝 Blog [aycode.aligony.repl.co](aycode.aligony.repl.co) 
 
 - 📫 Reklam Ve İşbirliği **rintygaminginfo@gmail.com** 
 
